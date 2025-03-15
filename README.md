@@ -38,20 +38,7 @@ The methodology followed in this project consists of the following steps:
 ## Conclusion
 The results suggest that deep learning models such as LSTMs and transformer-based models (FinBERT) provide competitive performance for aspect-based sentiment analysis in financial news. Traditional machine learning models performed well, with Logistic Regression achieving the highest accuracy among them. Future work can focus on improving deep learning models through hyperparameter tuning, data augmentation, and the inclusion of additional financial news sources to enhance model generalization.
 
-## Installation and Usage
-To use this project, follow these steps:
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the model training script
-python train.py
-```
 
 ## Acknowledgments
 This project utilizes the SentFin dataset, as introduced in the following research paper:
