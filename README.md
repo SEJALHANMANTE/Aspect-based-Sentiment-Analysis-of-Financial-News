@@ -61,5 +61,5 @@ Citation:
 SentFin: Entity-Specific Sentiment Analysis of Financial News
 Shantanu Agarwal, Nishant Nikhil, Aritra Ghosh, Pawan Goyal
 arXiv preprint arXiv:2305.12257 (2023)
-![Paper Link](https://arxiv.org/abs/2305.12257)
+[Paper Link](https://arxiv.org/abs/2305.12257)
 
